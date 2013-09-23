@@ -29,3 +29,9 @@ Also see [this document][1] and [this instruction page][2].
 
   [1]: http://www.codecademy.com/docs/forum_guidelines#markdown
   [2]: http://jsbin.com/akewog/1 
+
+
+Edit (haxor789): just found this little [.gif][3] in this [post][4]
+
+[3]:http://www.gifti.me/i/xe9Ojau20.gif
+[4]:http://www.codecademy.com/de/forum_questions/523dd85bf10c6024c6003962
